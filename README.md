@@ -36,7 +36,7 @@ When a fluxengine-style CSV file with decoder information is supplied, the inter
    ```
    or
    ```
-   python -mfluxvis --tracks 35 --diameter 108 --stride 2 show dos33.scp
+   python -mfluxvis --tracks 35 --diameter 108 --stride 2 view dos33.scp
    ```
 
 # Credits
